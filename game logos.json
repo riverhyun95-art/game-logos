@@ -1,0 +1,65 @@
+{
+  "_meta": { "version": "1.0.0", "updatedAt": "2025-08-26" },
+  "logos": {
+    "Maplestory": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/maplestory.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/maplestory.png",
+      "format": "png",
+      "aliases": ["메이플스토리", "maplestory"]
+    },
+    "The First Descendent": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/thefirstdescendant.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/thefirstdescendant.png",
+      "format": "png"
+      "aliases": ["퍼스트디센던트", "the first descendent"]
+    } 
+    "Arc Raiders": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/arcraiders.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/arcraiders.png",
+      "format": "png",
+      "aliases": ["아크 레이더스", "arc raiders"]
+    },
+    "Blue Archive": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/bluearchive.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/bluearchive.png",
+      "format": "png",
+      "aliases": ["블루아카이브", "blue archive"]
+    },
+    "Dungeon & Fighter": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/dungeonandfighter.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/dungeonandfighter.png",
+      "format": "png",
+      "aliases": ["던전앤파이터", "dungeon & fighter"]
+    },
+    "FC Online": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/fconline.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/fconline.png",
+      "format": "png",
+      "aliases": ["FC온라인", "fc online"]
+    },
+    "Mabinogi Mobile": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/mabinogim.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/mabinogim.png",
+      "format": "png",
+      "aliases": ["마비노기 모바일", "mabinogi mobile"]
+    },
+    "Supervive": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/supervive.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/supervive.png",
+      "format": "png",
+      "aliases": ["슈퍼바이브", "supervive"]
+    },
+    "The Finals": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/thefinals.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/thefinals.png",
+      "format": "png",
+      "aliases": ["더 파이널스", "the finals"]
+    },
+    "The First Berserker Khazan": {
+      "url": "https://github.com/riverhyun95-art/game-logos/blob/main/assets/thefirstberserkerkhazan.png",
+      "thumbUrl": "https://github.com/riverhyun95-art/game-logos/blob/main/thumbs/thefirstberserkerkhazan.png",
+      "format": "png",
+      "aliases": ["퍼스트버서커 카잔", "the first berserker khazan"]
+    },
+  }
+}
